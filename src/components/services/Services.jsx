@@ -36,8 +36,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I focus on helping your brand grow
-          <br /> and move forward
+          Aprender para luego
+          <br /> enseñar
         </p>
         <hr />
       </motion.div>
@@ -45,14 +45,15 @@ const Services = () => {
         <div className="title">
           <img src="/people.webp" alt="" />
           <h1>
-            <motion.b whileHover={{color:"orange"}}>Unique</motion.b> Ideas
+            Dev <motion.b whileHover={{ color: "orange" }}>Genexus</motion.b>{" "}
+            Ssr
           </h1>
         </div>
         <div className="title">
           <h1>
-            <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Business.
+            desde <motion.b whileHover={{ color: "orange" }}>2018</motion.b>{" "}
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>Más tecnologías</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -60,53 +61,42 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Universidad 👨🏻‍🎓🏛️</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Estudiante universitario de Ingeniería en Sistemas de Información
+            UNIVERSIDAD TECNOLOGICA NACIONAL - Argentina Actualmente terminé mi
+            estudios y presenté mi proyecto final. Estoy a 8 materias de
+            convertirme en Ingeniero!!
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Laboral💼💻</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Desde el 2018 trabajo con la herramienta Genexus en variedad de sus
+            versiones. Me certifiqué como analista Senior en la version Gx15.
+            Actualmente trabajo con versiones de genexus desde la Evo2 en
+            adelante. Manejando a su vez complementos como Wpp y WppMobile
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Norte 🧭🔭</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Mi búsqueda esta basada en conseguir un trabajo en una tecnología no
+            Genexus. Me gustaría trabajar como desarrollador fullstack con
+            herramientas como Java y Javascript. Utilizando cualquier frameworks
+            de las mismas. A lo largo de mi carrera he experimentado con estos
+            lenguajes de programación y mi objetivo es seguir haciendolo de
+            manera profesional en un trabajo.
           </p>
-          <button>Go</button>
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>Branding</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
-          </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
       </motion.div>
     </motion.div>

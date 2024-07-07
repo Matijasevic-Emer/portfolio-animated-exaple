@@ -11,7 +11,7 @@
     align-self: flex-end;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 
     @include mobile {
       align-self: center;
@@ -20,7 +20,7 @@
     }
 
     p {
-      font-weight: 200;
+      font-weight: 100;
       font-size: 20px;
       color: gray;
       text-align: right;
@@ -58,8 +58,8 @@
       }
 
       img {
-        width: 300px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
         border-radius: 50px;
         object-fit: cover;
 
@@ -70,7 +70,7 @@
       }
 
       h1 {
-        font-size: 96px;
+        font-size: 86px;
         font-weight: 100;
 
         @include mobile {
@@ -80,7 +80,7 @@
 
       button {
         width: 300px;
-        height: 100px;
+        height: 80px;
         border-radius: 50px;
         background-color: orange;
         border: none;
@@ -107,7 +107,7 @@
     }
 
     .box {
-      padding: 50px;
+      padding: 30px;
       border: 0.5px solid gray;
       display: flex;
       flex-direction: column;
