@@ -123,6 +123,7 @@
       p {
         @include mobile {
           overflow: auto;
+          font-size: 10px;
         }
       }
 
