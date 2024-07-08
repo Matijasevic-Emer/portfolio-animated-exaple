@@ -19,7 +19,9 @@
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
 
     @include mobile {
       gap: 20px;
@@ -45,12 +47,11 @@
   .formContainer {
     flex: 1;
     position: relative;
-    
+
     @include mobile {
       padding: 40px;
       width: 80%;
     }
-
 
     .phoneSvg {
       stroke: orange;
