@@ -57,7 +57,8 @@
           height: 100%;
           object-fit: scale-down;
           border-radius: 50px;
-
+          z-index: 99;
+          position: relative;
           @include mobile {
             object-fit: contain;
           }
@@ -103,6 +104,10 @@
           padding: 10px;
           width: 200px;
           cursor: pointer;
+          z-index: 99;
+          @include mobile {
+            display: none;
+          }
         }
       }
     }
