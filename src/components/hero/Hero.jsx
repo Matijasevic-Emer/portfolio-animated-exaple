@@ -38,6 +38,14 @@ const sliderVariants = {
 };
 
 const Hero = () => {
+  const handleCertificacionesClick = () => {
+    window.open(
+      "https://ematijasevic-certificados.netlify.app/",
+      "_blank",
+      "noopener,noreferrer"
+    );
+  };
+
   return (
     <div className="hero">
       <div className="wrapper">
@@ -50,12 +58,13 @@ const Hero = () => {
           <motion.h2 variants={textVariants}>EMERSON MATIJASEVIC </motion.h2>
           <motion.h1 variants={textVariants}>Ssr. Genexus Dev</motion.h1>
           <motion.div variants={textVariants} className="buttons">
-            {/* <a href="#Portfolio">
-              <motion.button variants={textVariants}>
-                Últimos proyectos
-              </motion.button>
-            </a>
-            <a href="#Contact">
+            <motion.button
+              variants={textVariants}
+              onClick={handleCertificacionesClick}
+            >
+              Certificaciones
+            </motion.button>
+            {/* <a href="#Contact">
               <motion.button variants={textVariants}>Contáctame</motion.button>
             </a> */}
           </motion.div>
