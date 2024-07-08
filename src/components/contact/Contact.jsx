@@ -55,18 +55,18 @@ const Contact = () => {
       whileInView="animate"
     >
       <motion.div className="textContainer" variants={variants}>
-        <motion.h1 variants={variants}>Let’s work together</motion.h1>
+        <motion.h1 variants={variants}>Charlemos</motion.h1>
         <motion.div className="item" variants={variants}>
-          <h2>Mail</h2>
-          <span>hello@react.dev</span>
+          <h2>Mail 📬</h2>
+          <span>matijasevic.emerson@gmail.com</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
-          <h2>Address</h2>
-          <span>Hello street New York</span>
+          <h2>Vivo en 🏠</h2>
+          <span>Corrientes Argentina</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
-          <h2>Phone</h2>
-          <span>+1 234 5678</span>
+          <h2>Llámame 📱</h2>
+          <span>+54 3794404726</span>
         </motion.div>
       </motion.div>
       <div className="formContainer">
@@ -106,10 +106,10 @@ const Contact = () => {
           whileInView={{ opacity: 1 }}
           transition={{ delay: 4, duration: 1 }}
         >
-          <input type="text" required placeholder="Name" name="name"/>
+          <input type="text" required placeholder="Nombre" name="name"/>
           <input type="email" required placeholder="Email" name="email"/>
-          <textarea rows={8} placeholder="Message" name="message"/>
-          <button>Submit</button>
+          <textarea rows={8} placeholder="Ej. Tengo un trabajo para vos 😉" name="message"/>
+          <button>ENVIAR</button>
           {error && "Error"}
           {success && "Success"}
         </motion.form>

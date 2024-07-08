@@ -63,7 +63,7 @@ const Services = () => {
         >
           <h2>Universidad 👨🏻‍🎓🏛️</h2>
           <p>
-            Estudiante universitario de Ingeniería en Sistemas de Información
+            Estudiante de Ingeniería en Sistemas de Información en
             UNIVERSIDAD TECNOLOGICA NACIONAL - Argentina Actualmente terminé mi
             estudios y presenté mi proyecto final. Estoy a 8 materias de
             convertirme en Ingeniero!!
@@ -78,8 +78,8 @@ const Services = () => {
           <p>
             Desde el 2018 trabajo con la herramienta Genexus en variedad de sus
             versiones. Me certifiqué como analista Senior en la version Gx15.
-            Actualmente trabajo con versiones de genexus desde la Evo2 en
-            adelante. Manejando a su vez complementos como Wpp y WppMobile
+            Trabajo con versiones de genexus desde la Evo2 en
+            adelante, manejando a su vez complementos como Wpp y WppMobile
           </p>
           {/* <button>Go</button> */}
         </motion.div>
@@ -89,7 +89,7 @@ const Services = () => {
         >
           <h2>Norte 🧭🔭</h2>
           <p>
-            Mi búsqueda esta basada en conseguir un trabajo en una tecnología no
+            Mi búsqueda: un trabajo en una tecnología no
             Genexus. Me gustaría trabajar como desarrollador fullstack con
             herramientas como Java y Javascript. Utilizando cualquier frameworks
             de las mismas. A lo largo de mi carrera he experimentado con estos
