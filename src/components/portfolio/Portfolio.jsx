@@ -13,7 +13,7 @@ const items = [
   {
     id: 2,
     title: "Js & Bootstrap eCommerce",
-    img: "	https://app.netlify.com/.netlify/images?url=https:…24-07-30-03-18-34-0000.webp&fit=cover&h=500&w=800https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66a85b7896f3010008481b23/screenshot_2024-07-30-03-18-34-0000.webp&fit=cover&h=500&w=800",
+    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66a85b7896f3010008481b23/screenshot_2024-07-30-03-18-34-0000.webp&fit=cover&h=500&w=800",
     desc: "Trabajo grupal integrador del curso Fullstack developer .Consiste en un ecommerce de articulos de PC&Gamming . El proyecto no está finalizado y solo se refiere al front-end del sitio.",
     link: "https://tp-grupo5-cilsa.netlify.app/",
   },
