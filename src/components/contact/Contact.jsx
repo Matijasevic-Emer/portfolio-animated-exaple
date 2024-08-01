@@ -55,21 +55,27 @@ const Contact = () => {
       whileInView="animate"
     >
       <motion.div className="textContainer" variants={variants}>
-        <motion.h1 variants={variants}>
-          Charlemos
-          <img src="/linkedin1.png" width={200} height={250} alt="" />
-        </motion.h1>
+        <motion.h1 variants={variants}>Charlemos</motion.h1>
+        <img src="/linkedin1.png" width={200} height={250} alt="" />
         <motion.div className="item" variants={variants}>
           <h2>Mail 📬</h2>
-          <span>matijasevic.emerson@gmail.com</span>
+          <a href="mailto:matijasevic.emerson@gmail.com">
+            <span>matijasevic.emerson@gmail.com</span>
+          </a>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Vivo en 🏠</h2>
           <span>Corrientes Argentina</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
-          <h2>Llámame 📱</h2>
-          <span>+54 3794404726</span>
+          <h2>Móvil 📱</h2>
+          <a
+            href="https://wa.me/543794404726"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span>+54 3794404726</span>
+          </a>
         </motion.div>
       </motion.div>
       <div className="formContainer">
