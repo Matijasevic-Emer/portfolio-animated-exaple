@@ -38,7 +38,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          setSuccess(true)
+          setSuccess(true);
         },
         (error) => {
           setError(true);
@@ -55,7 +55,10 @@ const Contact = () => {
       whileInView="animate"
     >
       <motion.div className="textContainer" variants={variants}>
-        <motion.h1 variants={variants}>Charlemos</motion.h1>
+        <motion.h1 variants={variants}>
+          Charlemos
+          <img src="/linkedin1.png" width={200} height={250} alt="" />
+        </motion.h1>
         <motion.div className="item" variants={variants}>
           <h2>Mail 📬</h2>
           <span>matijasevic.emerson@gmail.com</span>
@@ -106,9 +109,13 @@ const Contact = () => {
           whileInView={{ opacity: 1 }}
           transition={{ delay: 4, duration: 1 }}
         >
-          <input type="text" required placeholder="Nombre" name="name"/>
-          <input type="email" required placeholder="Email" name="email"/>
-          <textarea rows={8} placeholder="Ej. Tengo un trabajo para vos 😉" name="message"/>
+          <input type="text" required placeholder="Nombre" name="name" />
+          <input type="email" required placeholder="Email" name="email" />
+          <textarea
+            rows={8}
+            placeholder="Ej. Tengo un trabajo para vos 😉"
+            name="message"
+          />
           <button>ENVIAR</button>
           {error && "Error"}
           {success && "Success"}
