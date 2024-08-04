@@ -6,9 +6,9 @@ const items = [
   {
     id: 1,
     title: "React eCommerce",
-    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66a85edc6c5828000800326d/screenshot_2024-07-30-03-33-15-0000.webp&fit=cover&h=330&w=528",
+    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66ace1e487a7fa0008147067/screenshot_2024-08-02-13-41-50-0000.webp&fit=cover&h=500&w=800",
     desc: "Se trata de mis primeras practicas con React.js - Consiste en un ecommerce de lotes de terrenos en un barrio residencial llamado Mandalas de agua, El proyecto no está finalizado y solo se refiere al front-end del sitio.",
-    link: "https://mandalasdeagua.netlify.app/",
+    link: "https://terrenosargentinos.netlify.app/",
   },
   {
     id: 2,
