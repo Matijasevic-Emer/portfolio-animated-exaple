@@ -13,13 +13,16 @@
     font-size: 30px;
 
     @include mobile {
-      padding-top: calc(100vh - 100px);
-      font-size: 24px;
+      padding-top: calc(100vh - 70px);
+      font-size: 20px;
     }
 
     .progressBar {
       height: 10px;
       background-color: white;
+      @include mobile {
+        display: none;
+      }
     }
   }
 
@@ -40,7 +43,7 @@
       justify-content: center;
 
       @include mobile {
-        flex-direction: column;
+        flex-direction: column-reverse;
       }
 
       .imageContainer {
@@ -48,8 +51,9 @@
         height: 50%;
 
         @include mobile {
+          flex: none;
           width: 100%;
-          max-height: 300px;
+          max-height: 200px;
         }
 
         img {
@@ -74,6 +78,7 @@
         gap: 30px;
 
         @include mobile {
+          flex: none;
           transform: none !important;
           padding: 10px;
           align-items: center;
