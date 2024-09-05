@@ -27,6 +27,11 @@ section {
   overflow: hidden;
 }
 
+#Footer {
+  height: 20px;
+  background-color: #0c0c1d;
+}
+
 @mixin mobile {
   @media (max-width: 738px) {
     @content;
