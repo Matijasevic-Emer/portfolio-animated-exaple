@@ -33,10 +33,10 @@ const items = [
   },
   {
     id: 3001,
-    title: "Editor Automata",
-    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66873d3ae11c9d00080d7f35/screenshot_2024-07-05-00-24-48-0000.webp&fit=cover&h=500&w=800",
-    desc: "Desarrollado con vanilla JS , el proyecto me fue util para practicar mis conocimientos en Css y Html - Consiste en un lienzo en el cual se pueden desplegar puntos y unir los mismo con flechas. luego al agregar entradas y salidas a las flechas y nombres a los puntos se tiene un grafico de grafos para representar automatas de estados finitos. El proyecto quedó en estado incompleto porque decidí comenzar de nuevo utilizando algun framework de JS",
-    link: "https://ematijasevic-aef.netlify.app/",
+    title: "Listado de Certificaciones",
+    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/668376123ba29a0008bc33e2/screenshot_2024-07-02-03-38-12-0000.webp&fit=cover&h=500&w=800",
+    desc: "El proyecto nació para practicar el consumo de APIs mediante Js y poder hacer uso de los endpoints que tenia desplegado. El mismo lista mediante una api todas las certificaciones de los cursos de programación que tomé a lo largo de mi carrera. El proyecto está terminado y realizo mantenimiento al mismo cada que sea necesario. Utilicé JS Css y Html debido a la sencillez del mismo.",
+    link: "https://ematijasevic-certificados.netlify.app/",
   },
   {
     id: 4001,
@@ -47,10 +47,10 @@ const items = [
   },
   {
     id: 5001,
-    title: "Listado de Certificaciones",
-    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/668376123ba29a0008bc33e2/screenshot_2024-07-02-03-38-12-0000.webp&fit=cover&h=500&w=800",
-    desc: "El proyecto nació para practicar el consumo de APIs mediante Js y poder hacer uso de los endpoints que tenia desplegado. El mismo lista mediante una api todas las certificaciones de los cursos de programación que tomé a lo largo de mi carrera. El proyecto está terminado y realizo mantenimiento al mismo cada que sea necesario. Utilicé JS Css y Html debido a la sencillez del mismo.",
-    link: "https://ematijasevic-certificados.netlify.app/",
+    title: "Editor Automata",
+    img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66873d3ae11c9d00080d7f35/screenshot_2024-07-05-00-24-48-0000.webp&fit=cover&h=500&w=800",
+    desc: "Desarrollado con vanilla JS , el proyecto me fue util para practicar mis conocimientos en Css y Html - Consiste en un lienzo en el cual se pueden desplegar puntos y unir los mismo con flechas. luego al agregar entradas y salidas a las flechas y nombres a los puntos se tiene un grafico de grafos para representar automatas de estados finitos. El proyecto quedó en estado incompleto porque decidí comenzar de nuevo utilizando algun framework de JS",
+    link: "https://ematijasevic-aef.netlify.app/",
   },
   {
     id: 6001,
