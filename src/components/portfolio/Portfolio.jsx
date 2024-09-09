@@ -8,7 +8,7 @@ const items = [
     title: "JAVA ApiRest Facturación",
     img: "https://i.imgur.com/GzW6tZw.png",
     desc: "Se trata de una API Rest con Java Spring Boot - Consiste en el backend un ecommerce genérico con Clientes , Ventas , Productos y demas entidades relevantes - En el link puede ingresar a la documentacion de la API. [ Java + Spring + Spring Boot + Maven ] [Railway]",
-    link: "https://demo-apirest-production.up.railway.app/swagger-ui/index.html",
+    link: "https://api-facturacion-production.up.railway.app/swagger-ui/index.html#",
   },
   {
     id: 1000,
