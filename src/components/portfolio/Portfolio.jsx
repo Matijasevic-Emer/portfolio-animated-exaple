@@ -5,24 +5,24 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 999,
-    title: "JAVA ApiRest Facturación",
-    img: "https://i.imgur.com/GzW6tZw.png",
-    desc: "Se trata de una API Rest con Java Spring Boot - Consiste en el backend un ecommerce genérico con Clientes , Ventas , Productos y demas entidades relevantes - En el link puede ingresar a la documentacion de la API. [ Java + Spring + Spring Boot + Maven ] [Railway]",
-    link: "https://api-facturacion-production.up.railway.app/swagger-ui/index.html#",
-  },
-  {
-    id: 1000,
     title: "Trello App",
     img: "https://d33wubrfki0l68.cloudfront.net/66db95be90eba43648bc67e9/screenshot_2024-09-06-23-53-07-0000.webp",
-    desc: "Se trata de una app estilo Trello/Jira para la gestión de proyecto. Producto del trabajo integrador final de un curso de desarrollo Fullstack impartido por CILSA [ JavaScript + React + MaterialUI + Vite ] [Node.js + Express + MySql + Netlify]",
+    desc: "Se trata de una app estilo Trello/Jira para la gestión de proyecto. Producto del trabajo integrador final de un curso de desarrollo Fullstack impartido por CILSA [ JavaScript + React + MaterialUI + Vite ] [Node.js + Express + Firebase + Netlify]",
     link: "https://task-ban.netlify.app/",
   },
   {
-    id: 1001,
+    id: 1000,
     title: "React eCommerce",
     img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66ace1e487a7fa0008147067/screenshot_2024-08-02-13-41-50-0000.webp&fit=cover&h=500&w=800",
     desc: "Se trata de mis primeras practicas con React.js - Consiste en un ecommerce de lotes de terrenos en un barrio residencial llamado Mandalas de agua. El proyecto está finalizado y solo es demostrativo (no para su uso comercial). Contiene un catalogo con carrusel de imagenes, un mapa con su version gratuita y una sección para comparar terrenos. [ React.js + Vite + material UI ] [Node.js + Netlify]",
     link: "https://terrenosargentinos.netlify.app/",
+  },
+  {
+    id: 1001,
+    title: "JAVA ApiRest Facturación",
+    img: "https://i.imgur.com/GzW6tZw.png",
+    desc: "Se trata de una API Rest con Java Spring Boot - Consiste en el backend un ecommerce genérico con Clientes , Ventas , Productos y demas entidades relevantes - En el link puede ingresar a la documentacion de la API. [ Java + Spring + Spring Boot + Maven ] [Railway]",
+    link: "https://api-facturacion-production.up.railway.app/swagger-ui/index.html#",
   },
   {
     id: 2001,
