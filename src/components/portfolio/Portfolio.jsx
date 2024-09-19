@@ -40,7 +40,7 @@ const items = [
   },
   {
     id: 3002,
-    title: "Tesis universitaria - TWIST",
+    title: "Tésis Universitaria - TWIST",
     img: "https://i.imgur.com/8WfFYL1.png",
     desc: "El proyecto fue realizado en conjunto a 4 compañeros de la universidad donde asistí como proyecto de tesis final. Se trata de una app mobile inspirada en tinder para la conexion de personas con los mismos intereses. Fui el encargado de realizar las animaciones y mejorar la UX de la aplicacion. Se utilizó para su desarrollo : [Expo - ReactNative - LottieFiles - CommetChat] [ Java - Next.js - Firebase]",
     link: "https://drive.google.com/file/d/1FR8O4_Bh0eXDzcGoAL9m1fMfPMIHOuFd/view?usp=sharing",
