@@ -39,6 +39,13 @@ const items = [
     link: "https://ematijasevic-certificados.netlify.app/",
   },
   {
+    id: 3002,
+    title: "Tesis universitaria - TWIST",
+    img: "https://i.imgur.com/8WfFYL1.png",
+    desc: "El proyecto fue realizado en conjunto a 4 compañeros de la universidad donde asistí como proyecto de tesis final. Se trata de una app mobile inspirada en tinder para la conexion de personas con los mismos intereses. Fui el encargado de realizar las animaciones y mejorar la UX de la aplicacion. Se utilizó para su desarrollo : [Expo - ReactNative - LottieFiles - CommetChat] [ Java - Next.js - Firebase]",
+    link: "https://drive.google.com/file/d/1FR8O4_Bh0eXDzcGoAL9m1fMfPMIHOuFd/view?usp=sharing",
+  },
+  {
     id: 4001,
     title: "Página de presentación",
     img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6268c699d813ad000877da11/screenshot_2022-04-27-04-29-20-0000.png&fit=cover&h=500&w=800",
