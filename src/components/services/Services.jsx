@@ -63,9 +63,9 @@ const Services = () => {
         >
           <h2>Universidad 👨🏻‍🎓🏛️</h2>
           <p>
-            Estudiante de Ingeniería en Sistemas de Información en
-            UNIVERSIDAD TECNOLOGICA NACIONAL - Argentina Actualmente terminé mi
-            estudios y presenté mi proyecto final. Estoy a 8 materias de
+            Estudié Ingeniería en Sistemas de Información en la
+            UNIVERSIDAD TECNOLÓGICA NACIONAL - Fregional Resistencia, Argentina.
+            Actualmente terminé de cursas y aprobé mi proyecto final. Estoy a 8 materias de
             convertirme en Ingeniero!!
           </p>
           {/* <button>Go</button> */}
@@ -76,10 +76,8 @@ const Services = () => {
         >
           <h2>Laboral💼💻</h2>
           <p>
-            Desde el 2018 trabajo con la herramienta Genexus en variedad de sus
-            versiones. Me certifiqué como analista Senior en la version Gx15.
-            Trabajo con versiones de genexus desde la Evo2 en
-            adelante, manejando a su vez complementos como Wpp y WppMobile
+            Desde el 2018 trabajo con la herramienta Genexus. Me certifiqué como analista Senior en la version Gx15.
+            Trabajo con versiones de genexus desde la Evo2 en adelante, manejando a su vez complementos como Wpp y WppMobile
           </p>
           {/* <button>Go</button> */}
         </motion.div>
@@ -91,10 +89,10 @@ const Services = () => {
           <p>
             Mi búsqueda: un trabajo en una tecnología no
             Genexus. Me gustaría trabajar como desarrollador fullstack con
-            herramientas como Java y Javascript. Utilizando cualquier frameworks
+            herramientas como Ruby o Javascript. Utilizando cualquier frameworks
             de las mismas. A lo largo de mi carrera he experimentado con estos
             lenguajes de programación y mi objetivo es seguir haciendolo de
-            manera profesional en un trabajo.
+            manera profesional en un trabajo formal.
           </p>
           {/* <button>Go</button> */}
         </motion.div>
