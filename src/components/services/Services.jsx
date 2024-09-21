@@ -64,8 +64,9 @@ const Services = () => {
           <h2>Universidad 👨🏻‍🎓🏛️</h2>
           <p>
             Estudié Ingeniería en Sistemas de Información en la
-            UNIVERSIDAD TECNOLÓGICA NACIONAL - Fregional Resistencia, Argentina.
-            Actualmente terminé de cursas y aprobé mi proyecto final. Estoy a 8 materias de
+            UNIVERSIDAD TECNOLÓGICA NACIONAL - Regional Resistencia, Argentina.
+            Actualmente terminé de cursar y aprobé mi proyecto final. 
+Estoy a 8 materias de
             convertirme en Ingeniero!!
           </p>
           {/* <button>Go</button> */}
@@ -76,7 +77,7 @@ const Services = () => {
         >
           <h2>Laboral💼💻</h2>
           <p>
-            Desde el 2018 trabajo con la herramienta Genexus. Me certifiqué como analista Senior en la version Gx15.
+            Desde el 2018 trabajo con la herramienta Genexus. Me certifiqué como analista Senior en la versión Gx15.
             Trabajo con versiones de genexus desde la Evo2 en adelante, manejando a su vez complementos como Wpp y WppMobile
           </p>
           {/* <button>Go</button> */}
@@ -89,7 +90,7 @@ const Services = () => {
           <p>
             Mi búsqueda: un trabajo en una tecnología no
             Genexus. Me gustaría trabajar como desarrollador fullstack con
-            herramientas como Ruby o Javascript. Utilizando cualquier frameworks
+            herramientas como Ruby, Java o Javascript. Utilizando cualquier frameworks
             de las mismas. A lo largo de mi carrera he experimentado con estos
             lenguajes de programación y mi objetivo es seguir haciendolo de
             manera profesional en un trabajo formal.
