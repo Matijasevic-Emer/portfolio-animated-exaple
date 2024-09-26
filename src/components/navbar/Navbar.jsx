@@ -17,7 +17,7 @@ const Navbar = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/Matijasevic-Emer?tab=repositories"
+            href="https://github.com/Matijasevic-Emer"
           >
             <img src="/github.png" alt="repos" />
           </a>

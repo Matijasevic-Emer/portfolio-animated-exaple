@@ -23,12 +23,12 @@ const items = [
     id: 1000,
     title: "Trello App",
     img: "https://d33wubrfki0l68.cloudfront.net/66db95be90eba43648bc67e9/screenshot_2024-09-06-23-53-07-0000.webp",
-    desc: "Se trata de una app estilo Trello/Jira para la gestión de proyecto. Producto del trabajo integrador final de un curso de desarrollo Fullstack impartido por CILSA [ JavaScript + React + MaterialUI + Vite ] [Node.js + Express + MySql + Netlify]",
+    desc: "Se trata de una app estilo Trello/Jira para la gestión de proyecto. Producto del trabajo integrador final de un curso de desarrollo Fullstack impartido por CILSA [ JavaScript + React + MaterialUI + Vite ] [Node.js + Express + Firebase + Netlify]",
     link: "https://task-ban.netlify.app/",
     repo: "https://github.com/Matijasevic-Emer/taskban",
   },
   {
-    id: 1001,
+    id: 1000,
     title: "React eCommerce",
     img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66ace1e487a7fa0008147067/screenshot_2024-08-02-13-41-50-0000.webp&fit=cover&h=500&w=800",
     desc: "Una de mis primeras practicas con React.js - Consiste en un ecommerce de lotes de terrenos en un barrio residencial llamado Mandalas de agua. El proyecto está finalizado y solo es demostrativo (no para su uso comercial). Contiene un catalogo con carrusel de imagenes, un mapa con su version gratuita y una sección para comparar terrenos. [ React.js + Vite + material UI ] [Node.js + Netlify]",
@@ -53,7 +53,7 @@ const items = [
   },
   {
     id: 3002,
-    title: "Tesis universitaria - TWIST",
+    title: "Tésis Universitaria - TWIST",
     img: "https://i.imgur.com/8WfFYL1.png",
     desc: "El proyecto fue realizado en conjunto a 4 compañeros de la universidad donde asistí como proyecto de tesis final. Se trata de una app mobile inspirada en tinder para la conexion de personas con los mismos intereses. Fui el encargado de realizar las animaciones y mejorar la UX de la aplicacion. Se utilizó para su desarrollo : [Expo - ReactNative - LottieFiles - CommetChat] [ Java - Next.js - Firebase]",
     link: "https://drive.google.com/file/d/1FR8O4_Bh0eXDzcGoAL9m1fMfPMIHOuFd/view?usp=sharing",
