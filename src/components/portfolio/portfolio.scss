@@ -103,7 +103,17 @@
             font-size: 16px;
           }
         }
-
+        .button-group {
+          display: flex;
+          flex-direction: row;
+        }
+        .boton {
+          background-color: rgb(0, 76, 255);
+          color: white;
+          @include mobile {
+            display: block;
+          }
+        }
         button {
           background-color: orange;
           border: none;
@@ -112,6 +122,8 @@
           width: 200px;
           cursor: pointer;
           z-index: 99;
+        }
+        .botonNotM {
           @include mobile {
             display: none;
           }
