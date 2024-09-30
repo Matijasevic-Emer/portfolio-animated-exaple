@@ -5,10 +5,10 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 998,
-    title: "Ruby on Rails - eCommerce",
-    img: "https://miro.medium.com/v2/resize:fit:820/1*y7ZgcnbxdF4aDgh-XaS1-Q.png",
-    desc: "Una de mis primeras prácticas con Ruby on Rails , se trata de un ecommerce de productos de segunda mano, con funcionalidad de login y gestion de productos. El desarrollo esta actualmente en progreso [ Ruby 3.3.5 + Rails 7 + SQLite + Turbo ] [Railway]",
-    link: "",
+    title: "Ruby on Rails - ecommerce",
+    img: "https://i.imgur.com/hKyECpT.png",
+    desc: "Mis primeras prácticas con Ruby on Rails , se trata de un ecommerce de productos de segunda mano, con funcionalidad de login y gestion de productos, y un perfil administrador que gestiona las categorias de productos. El desarrollo esta actualmente en progreso y no se encuentra desplegado [ Ruby 3.3.5 + Rails 7 + SQLite + Turbo ]",
+    link: "https://drive.google.com/file/d/12CU1IpKAAm8mcgH1kBgjhqgkQb9SHnlv/view?usp=sharing",
     repo: "https://github.com/Matijasevic-Emer/vendelapp_v2",
   },
   {
