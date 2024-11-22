@@ -4,6 +4,14 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 const items = [
   {
+    id: 997,
+    title: "Ruby on Rails - Price Scraper",
+    img: "https://i.imgur.com/mf2Zij8.png",
+    desc: "Aplicación web y API RESTful que permite a los usuarios suscribirse a notificaciones de descuentos mediante WebSockets. Incluye un panel de administración para gestionar categorías de productos y usuarios, y un motor de scraping que extrae información sobre precios de productos. Los usuarios recibirán notificaciones en tiempo real cuando los precios disminuyan. Actualmente el proyecto está en desarrollo. El desarrollo esta finalizado pero no se encuentra desplegado [Ruby 3.3.5 + Rails 7 + PostgreSQL + WebSockets + Sidekiq + JWT + Docker]",
+    link: "https://drive.google.com/file/d/17L2WQinAiYNc6V_3bZIXa2FNJfcTcZjI/view?usp=sharing",
+    repo: "https://github.com/WebExpertoBootcamp/scrappy",
+  },
+  {
     id: 998,
     title: "Ruby on Rails - ecommerce",
     img: "https://i.imgur.com/hKyECpT.png",
@@ -89,6 +97,11 @@ const Single = ({ item }) => {
 
   const y = useTransform(scrollYProgress, [0, 1], [-300, 300]);
 
+  // Función para verificar si el enlace es un video de Google Drive
+  const isDriveVideo = (link) => {
+    return link.includes("drive.google.com") && link.includes("view");
+  };
+
   return (
     <section>
       <div className="container">
@@ -109,7 +122,9 @@ const Single = ({ item }) => {
                 </a>
               )}
               <a href={item.link} target="_blank" rel="noopener noreferrer">
-                <button className="botonNotM">Ver Demo</button>
+                <button className="botonNotM">
+                  {isDriveVideo(item.link) ? "Ver Video" : "Ver Demo"}
+                </button>
               </a>
             </div>
           </motion.div>
