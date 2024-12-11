@@ -88,8 +88,7 @@ Estoy a 8 materias de
         >
           <h2>Norte 🧭🔭</h2>
           <p>
-            Mi búsqueda: un trabajo en una tecnología no
-            Genexus. Me gustaría trabajar como desarrollador fullstack con
+            Me gustaría trabajar como desarrollador fullstack con
             herramientas como Ruby, Java o Javascript. Utilizando cualquier frameworks
             de las mismas. A lo largo de mi carrera he experimentado con estos
             lenguajes de programación y mi objetivo es seguir haciendolo de
