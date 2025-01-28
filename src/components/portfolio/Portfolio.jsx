@@ -6,7 +6,7 @@ const items = [
   {
     id: 997,
     title: "Ruby on Rails - Price Scraper",
-    img: "https://i.imgur.com/mf2Zij8.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D2DAQFGAIWBjajbGQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1732315677450?e=1738713600&v=beta&t=yaiTB7k8O0C8u3022k-hG_kCwGt9OMT6rre3brr9_1I",
     desc: "Aplicación web y API RESTful que permite a los usuarios suscribirse a notificaciones de descuentos mediante WebSockets. Incluye un panel de administración para gestionar categorías de productos y usuarios, y un motor de scraping que extrae información sobre precios de productos. Los usuarios recibirán notificaciones en tiempo real cuando los precios disminuyan. Actualmente el proyecto está en desarrollo. El desarrollo esta finalizado pero no se encuentra desplegado [Ruby 3.3.5 + Rails 7 + PostgreSQL + WebSockets + Sidekiq + JWT + Docker]",
     link: "https://drive.google.com/file/d/17L2WQinAiYNc6V_3bZIXa2FNJfcTcZjI/view?usp=sharing",
     repo: "https://github.com/WebExpertoBootcamp/scrappy",
@@ -14,7 +14,7 @@ const items = [
   {
     id: 998,
     title: "Ruby on Rails - ecommerce",
-    img: "https://i.imgur.com/hKyECpT.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D2DAQENTnjvyRA2Bw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1727824701686?e=1738713600&v=beta&t=F4SRyuaq-fXVVPtZi5bnaEkoO4PR2GuVrU8qRY_Uh_k",
     desc: "Mis primeras prácticas con Ruby on Rails , se trata de un ecommerce de productos de segunda mano, con funcionalidad de login y gestion de productos, y un perfil administrador que gestiona las categorias de productos. El desarrollo esta actualmente en progreso y no se encuentra desplegado [ Ruby 3.3.5 + Rails 7 + SQLite + Turbo ]",
     link: "https://drive.google.com/file/d/12CU1IpKAAm8mcgH1kBgjhqgkQb9SHnlv/view?usp=sharing",
     repo: "https://github.com/Matijasevic-Emer/vendelapp_v2",
@@ -22,7 +22,7 @@ const items = [
   {
     id: 999,
     title: "JAVA ApiRest Facturación",
-    img: "https://i.imgur.com/GzW6tZw.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D2DAQHZRNsTDnVRgw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1726704225268?e=1738713600&v=beta&t=YKAO1d1nsbpHOebrnEi2nPR6Pe94jRp64JT-KWMrfoo",
     desc: "API Rest con Java Spring Boot - Consiste en el backend un ecommerce genérico con Clientes , Ventas , Productos y demas entidades relevantes - En el link puede ingresar a la documentacion de la API. [ Java + Spring + Spring Boot + Maven ] [Railway]",
     link: "https://apirestemer-production.up.railway.app/swagger-ui/index.html#",
     repo: "https://github.com/Matijasevic-Emer/api-facturacion",
