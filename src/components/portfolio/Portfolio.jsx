@@ -4,6 +4,14 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 const items = [
   {
+    id: 996,
+    title: "Adopción y rescates de mascotas",
+    img: "./patitas.png",
+    desc: 'Aplicación web para el grupo de rescates "Patitas Callejeras" de Corrientes, Argentina . Permite a los usuarios completar el formulario de adopcion de mascotas e informarse de los casos actuales. Ademas cuenta con una sección para adminitrador donde puede gestionar los formularios de adopcion, cargar nuevos casos y ver el historial de casos resueltos. [React + Vite + Node.js + Firebase + Express + LottieFiles + Netlify]',
+    link: "https://patitascallejeras.com.ar",
+    repo: "https://github.com/PatitasCtes/patitascallejeras",
+  },
+  {
     id: 997,
     title: "Ruby on Rails - Price Scraper",
     img: "./scrappy.png",
