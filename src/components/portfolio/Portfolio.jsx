@@ -4,6 +4,14 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 const items = [
   {
+    id: 995,
+    title: "SKY Pets eCommerce",
+    img: "./sky.png",
+    desc: 'Tienda virtual para el emprendimiento de alimentacion natural para mascotas "SKY Pets". Posee listado de productos, contacto y funcionalidad de carritod de compras. [React + Vite + Node.js + Firebase + Express + LottieFiles + Netlify]',
+    link: "https://skypets.com.ar",
+    repo: "https://github.com/SKY-Pets/frontend",
+  },
+  {
     id: 996,
     title: "Adopción y rescates de mascotas",
     img: "./patitas.png",
