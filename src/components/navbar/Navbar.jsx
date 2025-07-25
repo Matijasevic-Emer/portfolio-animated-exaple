@@ -28,6 +28,9 @@ const Navbar = () => {
           >
             <img src="/linkedin.png" alt="laboral" />
           </a>
+          <a href="/emerson_matijasevic.pdf" download>
+            <img src="/pdf.png" alt="CV PDF" title="Descargar CV" />
+          </a>
         </div>
       </div>
     </div>
