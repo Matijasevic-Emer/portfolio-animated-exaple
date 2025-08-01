@@ -4,6 +4,14 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 const items = [
   {
+    id: 994,
+    title: "Lista de tareas NextJS",
+    img: "./tarehitos.png",
+    desc: 'TareHitos es una aplicación web desarrollada como parte del proceso de ingreso a la Academia ForIT. Su propósito es ofrecer una experiencia clara y eficiente para la gestión de tareas personales, con una interfaz moderna y adaptable. [Next.js + Tailwind + Node.js + Firebase  + LottieFiles + Vercel]',
+    link: "https://tarehitos.vercel.app/",
+    repo: "https://github.com/Matijasevic-Emer/tarehitos",
+  },
+  {
     id: 995,
     title: "SKY Pets eCommerce",
     img: "./sky.png",
