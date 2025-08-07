@@ -89,7 +89,7 @@ Estoy a 8 materias de
           <h2>Norte 🧭🔭</h2>
           <p>
             Me gustaría trabajar como desarrollador fullstack con
-            herramientas como Ruby, Java o Javascript. Utilizando cualquier frameworks
+            herramientas como Genexus, Ruby, Java o Javascript. Utilizando cualquier frameworks
             de las mismas. A lo largo de mi carrera he experimentado con estos
             lenguajes de programación y mi objetivo es seguir haciendolo de
             manera profesional en un trabajo formal.
